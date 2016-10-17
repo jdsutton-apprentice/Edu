@@ -6,4 +6,4 @@ In this lesson you will learn to create interactive webpages using JavaScript an
 * [Learn JQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery)
 
 ## Practical exercise
-Create a simple webpage which includes a collapsable list using JavaScript and JQuery.
+Create a simple webpage which includes a collapsable list using JavaScript and JQuery. Make sure to push your changes to GitHub as always.
