@@ -7,4 +7,4 @@ This repository contains educational information for the apprenticeship program.
 * Lesson 4 - Intro to Python
 * [Lesson 5 - HTTP requests](https://github.com/jdsutton-apprentice/Edu/blob/master/Lesson5.md)
 * Lesson 6 - Full stack foundations
-* Lesson 7 - Unit testing
+* [Lesson 7 - Unit testing](https://github.com/jdsutton-apprentice/Edu/blob/master/Lesson7.md)
