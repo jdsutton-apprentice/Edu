@@ -9,3 +9,10 @@ This repository contains educational information for the apprenticeship program.
 * [Lesson 5 - HTTP requests](https://github.com/jdsutton-apprentice/Edu/blob/master/Lesson5.md)
 * [Lesson 6 - Full stack foundations](https://github.com/jdsutton-apprentice/Edu/blob/master/Lesson6.md)
 * [Lesson 7 - Unit testing](https://github.com/jdsutton-apprentice/Edu/blob/master/Lesson7.md)
+
+## Where to go next?
+Contact jdsutton to begin the practical application portion of the apprenticeship.
+
+## Further learning
+* [Online Computer Science Education](https://github.com/open-source-society/computer-science)
+* [Technical Interview Study Material](https://github.com/jdsutton/Technical-Interview-Megarepo)
